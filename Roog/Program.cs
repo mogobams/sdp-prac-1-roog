@@ -6,7 +6,7 @@ namespace Roog
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! My student number is G17M4640");
         }
     }
 }
